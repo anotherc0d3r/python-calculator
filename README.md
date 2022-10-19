@@ -1,9 +1,8 @@
 # Customised Python Calculator
-Fit for purpose
 
 #### Design Brief:
 
-The design brief below is in reference to the windowframe design in Miro:
+The design brief below is in reference to the windowframe design in Miro: [**Miro**](https://miro.com/app/board/uXjVPUKK_nU=/)
 
 https://miro.com/app/board/uXjVPUKK_nU=/
 
@@ -18,7 +17,8 @@ https://miro.com/app/board/uXjVPUKK_nU=/
 
 * Layout
   * Here's the link to my design in [**Miro**](https://miro.com/app/board/uXjVPUKK_nU=/)
-  * ![image](https://user-images.githubusercontent.com/103463225/196822316-8c4d5175-40fd-4f4e-b24b-bb3175e19fb4.png)
+  * This is the layout of the **Calculator** in Tkinter.
 
 
+<a href="task"><image src="![image](https://user-images.githubusercontent.com/103463225/196822316-8c4d5175-40fd-4f4e-b24b-bb3175e19fb4.png)?raw=true" title="The Task" width=500>
 
