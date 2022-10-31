@@ -4,7 +4,6 @@
 
 The design brief below is in reference to the windowframe design in Miro: [**Miro**](https://miro.com/app/board/uXjVPUKK_nU=/)
 
-https://miro.com/app/board/uXjVPUKK_nU=/
 
 ### Members of the team
 - Fletcher Cowan
