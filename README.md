@@ -2,7 +2,7 @@
 
 #### Design Brief:
 
-The design brief below is in reference to the windowframe design in Miro: [**Miro**](https://miro.com/app/board/uXjVPUKK_nU=/)
+The design brief below is in reference to the windowframe design in [**Miro**](https://miro.com/app/board/uXjVPUKK_nU=/):
 
 
 ### Members of the team
