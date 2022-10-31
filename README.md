@@ -9,7 +9,7 @@ The design brief below is in reference to the windowframe design in [**Miro**](h
 - Fletcher Cowan
 
 ### The Design
-* colour
+* Colour
   * The colours I have chosen for this calculator are relevant to my target age group
   * My target age group is between 12-15 years.
   * The colours make the numbers and symbols easy to read and well presented.
